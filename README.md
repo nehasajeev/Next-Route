@@ -1,5 +1,4 @@
 # Next Route — Patient Journey Navigator
-
 Next Route helps patients, especially elderly patients and patients with disabilities, through the administrative side of care: finding the right facility and department, knowing which documents and referrals to bring, booking a slot, following the queue on the day, and tracking follow-ups. It does not diagnose.
 
 **Live demo:** https://nehasajeev.github.io/Next-Route/
